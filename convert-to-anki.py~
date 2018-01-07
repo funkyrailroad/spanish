@@ -1,0 +1,20 @@
+#! /usr/bin/python
+import sys
+
+filename = sys.argv[1]
+read = open(filename, 'r')
+
+newname = filename.split('.')[0] + ".ank"
+write = open(newname, 'w')
+
+for line in read.readlines():
+    if line == "\n":
+        write.write("\n")
+        continue
+    line = line.split("\n")[0]
+    write.write(line)
+    write.write('\t')
+write.write('\n')
+
+read.close()
+write.close()

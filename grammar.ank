@@ -1,0 +1,256 @@
+
+Substantive, die enden mit -a  	feminin	
+Substantive, die enden mit -o  	maskulin	
+Substantive, die enden mit -i  	maskulin	
+Substantive, die enden mit -ú  	maskulin	
+Substantive, die enden mit -aje    	maskulin	
+Substantive, die enden mit -ama    	maskulin	
+Substantive, die enden mit -ema    	maskulin	
+Substantive, die enden mit -ista   	feminin und maskulin	
+Substantive, die enden mit -ante   	feminin und maskulin	
+Substantive, die enden mit -e  	feminin und maskulin	
+Substantive, die enden mit -ción   	feminin	
+Substantive, die enden mit -sión   	feminin	
+Substantive, die enden mit -dad    	feminin	
+Substantive, die enden mit -tad    	feminin	
+Substantive, die enden mit -sis    	feminin	
+Substantive, die enden mit -or 	maskulin	
+Substantive, die enden mit -ón 	maskulin	
+Substantive, die enden mit -l  	feminin und maskulin	
+Substantive, die enden mit -n  	feminin und maskulin	
+Substantive, die enden mit -z  	feminin und maskulin	
+Substantive, die enden mit -s  	feminin und maskulin	
+
+
+
+{feminine,masculine}{singular,plural} of adjectives ending with -a -o	a, s, o, s	
+{feminine,masculine}{singular,plural} of adjectives ending with -e	e, s, e, s	
+{feminine,masculine}{singular,plural} of adjectives ending with consonant	-, es, -, es	
+{feminine,masculine}{singular,plural} of adjectives ending with -ista	-, s, -, s	
+{feminine,masculine}{singular,plural} of adjectives for herkunfstbeziechnung	a, as, -/o, s/es	
+
+
+
+studieren	estudiar	
+ich studiere	(yo) estudio	
+du studierst	(tú) estudias	
+er/sie studiert	(ella/él) estudia	
+Sie (s. höflich) studieren	(usted) estudia	
+wir studieren	(nosotras/nosotros) estudiamos	
+ihr studiert	(vosotras/vosotros) estudiáis	
+sie (3. person plural) studieren	(ellas/ellos) estudian	
+Sie (pl. höflich) studieren	(ustedes) estudian	
+lernen	aprender	
+ich lerne	(yo) aprendo	
+du lernst	(tú) aprendes	
+er/sie lernt	(ella/él) aprende	
+Sie (s. höflich) lernen	(usted) aprende	
+wir lernen	(nosotras/nosotros) aprendemos	
+ihr lernt	(vosotras/vosotros) aprendéis	
+sie (3. person plural) lernen	(ellas/ellos) aprenden	
+Sie (pl. höflich) lernen	(ustedes) aprenden	
+leben	vivir	
+ich lebe	(yo) vivo	
+du lebst	(tú) vives	
+er/sie lebt	(ella/él) vive	
+Sie (s. höflich) leben	(usted) vive	
+wir leben	(nosotras/nosotros) vivimos	
+ihr lebt	(vosotras/vosotros) vivís	
+sie (3. person plural)	(ellas/ellos)	
+Sie (pl. höflich)	(ustedes)	
+llamarse	me llamo	te llamas	se llama	nos llamamos	os llamáis	se llaman	
+sich nennen	llamarse	
+ich nenne mich	(yo) me llamo	
+du nennst dich	(tú) te llamas	
+er/sie nennt sich	(ella/él) se llama	
+Sie (s. höflich) nennen sich	(usted) se llama	
+wir nennen uns	(nosotras/nosotros) nos llamamos	
+ihr nennt euch	(vosotras/vosotros) os llamáis	
+sie (3. person plural) nennen sich	(ellas/ellos) se llaman	
+Sie (pl. höflich) nennen sich	(ustedes) se llaman	
+
+gehen	ir	
+ich gehe	(yo) voy	
+du gehst	(tú) vas	
+er/sie geht	(ella/él) va	
+Sie (s. höflich) gehen	(usted) va	
+wir gehen	(nosotras/nosotros) vamos	
+ihr geht	(vosotras/vosotros) vais	
+sie (3. person plural) gehen	(ellas/ellos) van	
+Sie (pl. höflich) gehen	(ustedes) van	
+sein (permanent)	ser	
+ich bin (permanent)	(yo) soy	
+du bist (permanent)	(tú) eres	
+er/sie ist (permanent)	(ella/él) es	
+Sie (s. höflich) sind (permanent)	(usted) es	
+wir sind (permanent)	(nosotras/nosotros) somos	
+ihr seid (permanent)	(vosotras/vosotros) sois	
+sie (3. person plural) sind (permanent)	(ellas/ellos) son	
+Sie (pl. höflich) sind (permanent)	(ustedes) son	
+sein (temporary)	estar	
+ich bin (temporary)	(yo) estoy	
+du bist (temporary)	(tú) estás	
+er/sie ist (temporary)	(ella/él) está	
+Sie (s. höflich) sind (temporary)	(usted) está	
+wir sind (temporary)	(nosotras/nosotros) estamos	
+ihr seid (temporary)	(vosotras/vosotros) estáis	
+sie (3. person plural) sind (temporary)	(ellas/ellos) están	
+Sie (pl. höflich) sind (temporary)	(ustedes) están	
+kennen/wissen	saber	
+ich weiss	(yo) sé	
+du weisst	(tú) sabes	
+er/sie weisst	(ella/él) sabe	
+Sie (s. höflich) wissen	(usted) sabe	
+wir wissen	(nosotras/nosotros) sabemos	
+ihr wisst	(vosotras/vosotros) sabéis	
+sie (3. person plural) wissen	(ellas/ellos) saben	
+Sie (pl. höflich) wissen	(ustedes) saben	
+jdn. kennen	conocer a alguin	
+ich kenne	(yo) conozco	
+du kennst	(tú) conoces	
+er/sie kennt	(ella/él) conoce	
+Sie (s. höflich) kennen	(usted) conoce	
+wir kennen	(nosotras/nosotros) conocemos	
+ihr kennt	(vosotras/vosotros) conocéis	
+sie (3. person plural) kennen	(ellas/ellos) conocemos	
+Sie (pl. höflich) kennen	(ustedes) conocemos	
+machen	hacer	
+ich mache	(yo) hago	
+du hast	(tú) haces	
+er/sie macht	(ella/él) hace	
+Sie (s. höflich) machen	(usted) hace	
+wir machen	(nosotras/nosotros) hacemos	
+ihr macht	(vosotras/vosotros) hacéis	
+sie (3. person plural) machen	(ellas/ellos) hacen	
+Sie (pl. höflich) machen	(ustedes) hacen	
+haben	tener	
+ich habe	(yo) tengo	
+du hast	(tú) tienes	
+er/sie hat	(ella/él) tiene	
+Sie (s. höflich) haben	(usted) tiene	
+wir haben	(nosotras/nosotros) tenemos	
+ihr habt	(vosotras/vosotros) tenéis	
+sie (3. person plural) haben	(ellas/ellos) tienen	
+Sie (pl. höflich) haben	(ustedes) tienen	
+ausgehen	salir	
+ich gehe aus	(yo) salgo	
+du gehst aus	(tú) sales	
+er/sie geht aus	(ella/él) sale	
+Sie (s. höflich) gehen aus	(usted) sale	
+wir gehen aus	(nosotras/nosotros) salimos	
+ihr geht aus	(vosotras/vosotros) salís	
+sie (3. person plural) gehen aus	(ellas/ellos) salen	
+Sie (pl. höflich) gehen aus	(ustedes) salen	
+
+
+und	y (e vor wörter die mit i- oder hi- beginnen)	
+oder	o (u vor wörter die mit o- oder ho- beginnen)	
+aber	pero	
+sondern	sino	
+
+
+
+
+sehr	muy	
+viel/e	mucho	
+Mit welcher Wortart(en) wird "muy" benutzt?	mit adjektiven (Es un barrio muy interesante)	
+Mit welcher Wortart(en) "mucho" benutzt?	mit verben und substantiven (Trabaja mucho. Mucha gente, muchas personas, mucho tiempo, muchos inmigrantes)	
+
+
+verstehen	entender	
+ich verstehe	(yo) entiendo	
+du verstehst	(tú) entiendes	
+er/sie versteht	(ella/él) entiende	
+Sie (s. höflich) verstehen	(usted) entiende	
+wir verstehen	(nosotras/nosotros) entendemos	
+ihr versteht	(vosotras/vosotros) entedéis	
+sie (3. person plural) verstehen	(ellas/ellos) entienden	
+Sie (pl. höflich) verstehen	(ustedes) entienden	
+wollen	querer	
+ich will	(yo) quiero	
+du willst	(tú) quieres	
+er/sie will	(ella/él) quiere	
+Sie (s. höflich) wollen	(usted) quiere	
+wir wollen	(nosotras/nosotros) queremos	
+ihr wollt	(vosotras/vosotros) queréis	
+sie (3. person plural) wollen	(ellas/ellos) quieren	
+Sie (pl. höflich) wollen	(ustedes) quieren	
+können	poder	
+ich kann	(yo) puedo	
+du kannst	(tú) puedes	
+er/sie kann	(ella/él) puede	
+Sie (s. höflich) können	(usted) puede	
+wir können	(nosotras/nosotros) podemos	
+ihr könnt	(vosotras/vosotros) podéis	
+sie (3. person plural) können	(ellas/ellos) pueden	
+Sie (pl. höflich) können	(ustedes) pueden	
+zurückkommen	volver	
+ich komme zurück	(yo) vuelvo	
+du kommst zurück	(tú) vuelves	
+er/sie kommt zurück	(ella/él) vuelve	
+Sie (s. höflich) kommen zurück	(usted) vuelve	
+wir kommen zurück	(nosotras/nosotros) volvemos	
+ihr kommt zurück	(vosotras/vosotros) volvéis	
+sie (3. person plural) kommen zurück	(ellas/ellos) vuelven	
+Sie (pl. höflich) kommen zurück	(ustedes) vuelven	
+
+indirect object form of yo	(A mí) me	
+indirect object form of tú	(A ti) te	
+indirect object form of ella/él	(A ella/él) le	
+indirect object form of usted	(A usted) le	
+indirect object form of nosotras/nosotros	(A nosotras/nosotros) nos	
+indirect object form of vosotras/vosotros	(A vosotras/vosotros) os	
+indirect object form of ellas/ellos	(A ellas/ellos) les	
+indirect object form of ustedes	(A ustedes) les	
+gefallen/mögen	gustar	
+interessieren	interesar	
+etw. sehr mögen	encantar	
+scheinen	parecer	
+I like living in a small city	Me gusta vivir en una ciudad pequeña. (gustar conjugated to singular for verbs)	
+I'm interested in the cultural offerings of the large cities.	(A mí) me interesa la oferta cultural de las ciudades grandes.	
+It seems wrong to live in this city.	Me parece mal vivir en esta ciudad.	
+
+What do you think about the new spanish book?	Qué te parece el nuevo libro de español? (Why does nuevo not come last?)	
+I like it a lot, Pablo doesn't. It seems a bit easy (to him).	A mí me encanta, a Pablo no. Le parece un poco fácil.	
+Let's take a trip if you'd like	Hacemos una excursión si te gusta.	
+
+Her parents work in Barcelona because they're English professors. 	Sus padres trabajan en Barcelona, porque son profesores de inglés.	
+She doesn't know Spanish and also not Catalan.	No sabe español y tampoco catalán.	
+In addition	Además	
+
+morgen	mañana	
+nächste Woche	la semana que viene	
+nächsten Monat	el mes que viene	
+nächstes Jahr	el año que viene	
+nächstes Semester	el semestre que viene	
+What plans do you have for this Christmas?	Qué planes tienes para estas Navidades?	
+She's thinking of going ...	Ella piensa ir ...	
+She wants to improve / get better at ...	Ella quiere mejorar ...	
+She would like to go ...	Ella le gustaría ir ... (conjugado en condicional)	
+She is going to study.	Ella va a estudiar.	
+I'm going to do sports and work	Voy a hacer deporte y a trabajar.	
+
+Which languages are spoken in Spain?	Qué lenguas se hablan en España?	
+In Austria, only one language is spoken.	En Austria sólo se habla alemán.	
+
+hier (beim Sprecher)	aquí / acá	
+dort (entfert vom Sprecher, aber nah zur angesprochenen Person)	ahí	
+dort (weit weg)	alli / allá	
+Demonstrativbegleiter für aquí / acá {feminine,masculine}{singular,plural}	esta, estas / este, estos	
+Demonstrativbegleiter für ahí {feminine,masculine}{singular,plural}	esa, esas / ese, esos	
+Demonstrativbegleiter für alli / allá {feminine,masculine}{singular,plural}	aquella, aquellas / aquel, aquellos	
+
+
+I have to practice.	Tengo que practicar.	
+I just read an very interesting text.	Acabo de leer un texto muy interesante.	
+I'm learning a lot with my new tandem.	Estoy aprendiendo mucho con mi nuevo tandem.	
+Gerundio of estudiar	estudiando	
+Gerundio of hacer	haciendo	
+Gerundio of escribir	escribiendo	
+Gerundio of dormir	durmiendo	
+Gerundio of decir	diciendo	
+Gerundio of pedir	pidiendo	
+Gerundio of elegir	eligiendo	
+Gerundio of repitir	repitiendo	
+Gerundio of leer	leyendo	
+Gerundio of ir	yendo	
