@@ -333,217 +333,217 @@ sino
 gehen
 ir
 
-yo ir
+ir (yo)
 (yo) voy
 
-tú ir
+ir (tú)
 (tú) vas
 
-ella/él ir
+ir (ella/él)
 (ella/él) va
 
-usted ir
+ir (usted)
 (usted) va
 
-nosotras/nosotros ir
+ir (nosotras/nosotros)
 (nosotras/nosotros) vamos
 
-vosotras/vosotros ir
+ir (vosotras/vosotros)
 (vosotras/vosotros) vais
 
-ellas/ellos ir
+ir (ellas/ellos)
 (ellas/ellos) van
 
-ustedes ir
+ir (ustedes)
 (ustedes) van
 
 sein (permanent)
 ser
 
-yo ser
+ser (yo)
 (yo) soy
 
-tú ser
+ser (tú)
 (tú) eres
 
-ella/él ser
+ser (ella/él)
 (ella/él) es
 
-usted ser
+ser (usted)
 (usted) es
 
-nosotras/nosotros ser
+ser (nosotras/nosotros)
 (nosotras/nosotros) somos
 
-vosotras/vosotros ser
+ser (vosotras/vosotros)
 (vosotras/vosotros) sois
 
-ellas/ellos ser
+ser (ellas/ellos)
 (ellas/ellos) son
 
-ustedes ser
+ser (ustedes)
 (ustedes) son
 
 sein (temporary)
 estar
 
-yo estar
+estar (yo)
 (yo) estoy
 
-tú estar
+estar (tú)
 (tú) estás
 
-ella/él estar
+estar (ella/él)
 (ella/él) está
 
-usted estar
+estar (usted)
 (usted) está
 
-nosotras/nosotros estar
+estar (nosotras/nosotros)
 (nosotras/nosotros) estamos
 
-vosotras/vosotros estar
+estar (vosotras/vosotros)
 (vosotras/vosotros) estáis
 
-ellas/ellos estar
+estar (ellas/ellos)
 (ellas/ellos) están
 
-ustedes estar
+estar (ustedes)
 (ustedes) están
 
 kennen/wissen
 saber
 
-yo saber
+saber (yo)
 (yo) sé
 
-tú saber
+saber (tú)
 (tú) sabes
 
-ella/él saber
+saber (ella/él)
 (ella/él) sabe
 
-usted saber
+saber (usted)
 (usted) sabe
 
-nosotras/nosotros saber
+saber (nosotras/nosotros)
 (nosotras/nosotros) sabemos
 
-vosotras/vosotros saber
+saber (vosotras/vosotros)
 (vosotras/vosotros) sabéis
 
-ellas/ellos saber
+saber (ellas/ellos)
 (ellas/ellos) saben
 
-ustedes saber
+saber (ustedes)
 (ustedes) saben
 
 jdn. kennen
 conocer a alguin
 
-yo conocer a alguin
+conocer (yo)
 (yo) conozco
 
-tú conocer a alguin
+conocer (tú)
 (tú) conoces
 
-ella/él conocer a alguin
+conocer (ella/él)
 (ella/él) conoce
 
-usted conocer a alguin
+conocer (usted)
 (usted) conoce
 
-nosotras/nosotros conocer a alguin
+conocer (nosotras/nosotros)
 (nosotras/nosotros) conocemos
 
-vosotras/vosotros conocer a alguin
+conocer (vosotras/vosotros)
 (vosotras/vosotros) conocéis
 
-ellas/ellos conocer a alguin
+conocer (ellas/ellos)
 (ellas/ellos) conocemos
 
-ustedes conocer a alguin
+conocer (ustedes)
 (ustedes) conocemos
 
 machen
 hacer
 
-yo hacer
+hacer (yo)
 (yo) hago
 
-tú hacer
+hacer (tú)
 (tú) haces
 
-ella/él hacer
+hacer (ella/él)
 (ella/él) hace
 
-usted hacer
+hacer (usted)
 (usted) hace
 
-nosotras/nosotros hacer
+hacer (nosotras/nosotros)
 (nosotras/nosotros) hacemos
 
-vosotras/vosotros hacer
+hacer (vosotras/vosotros)
 (vosotras/vosotros) hacéis
 
-ellas/ellos hacer
+hacer (ellas/ellos)
 (ellas/ellos) hacen
 
-ustedes hacer
+hacer (ustedes)
 (ustedes) hacen
 
 haben
 tener
 
-yo tener
+tener (yo)
 (yo) tengo
 
-tú tener
+tener (tú)
 (tú) tienes
 
-ella/él tener
+tener (ella/él)
 (ella/él) tiene
 
-usted tener
+tener (usted)
 (usted) tiene
 
-nosotras/nosotros tener
+tener (nosotras/nosotros)
 (nosotras/nosotros) tenemos
 
-vosotras/vosotros tener
+tener (vosotras/vosotros)
 (vosotras/vosotros) tenéis
 
-ellas/ellos tener
+tener (ellas/ellos)
 (ellas/ellos) tienen
 
-ustedes tener
+tener (ustedes)
 (ustedes) tienen
 
 ausgehen
 salir
 
-yo salir
+salir (yo)
 (yo) salgo
 
-tú salir
+salir (tú)
 (tú) sales
 
-ella/él salir
+salir (ella/él)
 (ella/él) sale
 
-usted salir
+salir (usted)
 (usted) sale
 
-nosotras/nosotros salir
+salir (nosotras/nosotros)
 (nosotras/nosotros) salimos
 
-vosotras/vosotros salir
+salir (vosotras/vosotros)
 (vosotras/vosotros) salís
 
-ellas/ellos salir
+salir (ellas/ellos)
 (ellas/ellos) salen
 
-ustedes salir
+salir (ustedes)
 (ustedes) salen
 
 
