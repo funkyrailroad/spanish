@@ -132,3 +132,68 @@ sale
 salimos
 salís
 salen
+
+fumar
+fumo
+fumas
+fuma
+fumamos
+fumáis
+fuman
+
+beber
+bebo
+bebes
+bebe
+bebemos
+bebéis
+beben
+
+subir (to go up)
+subo
+subes
+sube
+subimos
+subís
+suben
+
+ducharse
+me ducho
+te duchas
+se ducha
+nos duchamos
+os ducháis
+se duchan
+
+poder
+puedo
+puedes
+puede
+podemos
+podéis
+pueden
+
+repetir (to repeat)
+repito
+repites
+repite
+repetimos
+repetís
+repiten
+
+dar
+
+proteger
+
+venir
+
+
+ser
+soy
+eres
+es
+somos
+sois
+son
+
+

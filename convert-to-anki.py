@@ -15,7 +15,7 @@ for line in readfile.readlines():
     # line breaks
     if line == "\n":
         line_list = line_list[:-1] + '\n'
-        print repr(line_list)
+        #print repr(line_list)
         writefile.write(line_list)
         line_list = ''
         #exit()
