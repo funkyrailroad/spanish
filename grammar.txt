@@ -63,6 +63,488 @@ feminin und maskulin
 Substantive, die enden mit -s  
 feminin und maskulin
 
+# G 1.3 bestimmte und unbestimmte Artikeln
+
+
+
+# G 1.4
+
+#infinitiv
+#infinitivo
+#
+#yyo 
+#(yo) 
+#
+#tú 
+#(tú) 
+#
+#ella/él 
+#(ella/él) 
+#
+#usted 
+#(usted) 
+#
+#nosotras/nosotros 
+#(nosotras/nosotros) 
+#
+#vosotras/vosotros 
+#(vosotras/vosotros) 
+#
+#ellas/ellos 
+#(ellas/ellos) 
+#
+#ustedes 
+#(ustedes) 
+
+studieren
+estudiar
+
+estudiar (yo) 
+(yo) estudio
+
+estudiar (tú) 
+(tú) estudias
+
+estudiar (ella/él) 
+(ella/él) estudia
+
+estudiar (usted) 
+(usted) estudia
+
+estudiar (nosotras/nosotros) 
+(nosotras/nosotros) estudiamos
+
+estudiar (vosotras/vosotros) 
+(vosotras/vosotros) estudiáis
+
+estudiar (ellas/ellos) 
+(ellas/ellos) estudian
+
+estudiar (ustedes) 
+(ustedes) estudian
+
+lernen
+aprender
+
+aprender (yo) 
+(yo) aprendo
+
+aprender (tú) 
+(tú) aprendes
+
+aprender (ella/él) 
+(ella/él) aprende
+
+aprender (usted) 
+(usted) aprende
+
+aprender (nosotras/nosotros) 
+(nosotras/nosotros) aprendemos
+
+aprender (vosotras/vosotros) 
+(vosotras/vosotros) aprendéis
+
+aprender (ellas/ellos) 
+(ellas/ellos) aprenden
+
+aprender (ustedes) 
+(ustedes) aprenden
+
+leben
+vivir
+
+vivir (yo) 
+(yo) vivo
+
+vivir (tú) 
+(tú) vives
+
+vivir (ella/él) 
+(ella/él) vive
+
+vivir (usted) 
+(usted) vive
+
+vivir (nosotras/nosotros) 
+(nosotras/nosotros) vivimos
+
+vivir (vosotras/vosotros) 
+(vosotras/vosotros) vivís
+
+vivir (ellas/ellos) 
+(ellas/ellos) viven
+
+vivir (ustedes) 
+(ustedes) viven
+
+sich nennen
+llamarse
+
+llamarse (yo) 
+(yo) me llamo
+
+llamarse (tú) 
+(tú) te llamas
+
+llamarse (ella/él) 
+(ella/él) se llama
+
+llamarse (usted) 
+(usted) se llama
+
+llamarse (nosotras/nosotros) 
+(nosotras/nosotros) nos llamamos
+
+llamarse (vosotras/vosotros) 
+(vosotras/vosotros) os llamáis
+
+llamarse (ellas/ellos) 
+(ellas/ellos) se llaman
+
+llamarse (ustedes) 
+(ustedes) se llaman
+
+# G 1.5 Verben mit Diphthongierung
+
+verstehen
+entender
+
+entender (yo) 
+(yo) entiendo
+
+entender (tú) 
+(tú) entiendes
+
+entender (ella/él) 
+(ella/él) entiende
+
+entender (usted) 
+(usted) entiende
+
+entender (nosotras/nosotros) 
+(nosotras/nosotros) entendemos
+
+entender (vosotras/vosotros) 
+(vosotras/vosotros) entedéis
+
+entender (ellas/ellos) 
+(ellas/ellos) entienden
+
+entender (ustedes) 
+(ustedes) entienden
+
+wollen
+querer
+
+querer (yo) 
+(yo) quiero
+
+querer (tú) 
+(tú) quieres
+
+querer (ella/él) 
+(ella/él) quiere
+
+querer (usted) 
+(usted) quiere
+
+querer (nosotras/nosotros) 
+(nosotras/nosotros) queremos
+
+querer (vosotras/vosotros) 
+(vosotras/vosotros) queréis
+
+querer (ellas/ellos) 
+(ellas/ellos) quieren
+
+querer (ustedes) 
+(ustedes) quieren
+
+können
+poder
+
+poder (yo) 
+(yo) puedo
+
+poder (tú) 
+(tú) puedes
+
+poder (ella/él) 
+(ella/él) puede
+
+poder (usted) 
+(usted) puede
+
+poder (nosotras/nosotros) 
+(nosotras/nosotros) podemos
+
+poder (vosotras/vosotros) 
+(vosotras/vosotros) podéis
+
+poder (ellas/ellos) 
+(ellas/ellos) pueden
+
+poder (ustedes) 
+(ustedes) pueden
+
+zurückkommen
+volver
+
+volver (yo) 
+(yo) vuelvo
+
+volver (tú) 
+(tú) vuelves
+
+volver (ella/él) 
+(ella/él) vuelve
+
+volver (usted) 
+(usted) vuelve
+
+volver (nosotras/nosotros) 
+(nosotras/nosotros) volvemos
+
+volver (vosotras/vosotros) 
+(vosotras/vosotros) volvéis
+
+volver (ellas/ellos) 
+(ellas/ellos) vuelven
+
+volver (ustedes) 
+(ustedes) vuelven
+
+# G 1.6 Bindwörter
+
+und
+y (e vor wörter die mit i- oder hi- beginnen)
+
+oder
+o (u vor wörter die mit o- oder ho- beginnen)
+
+aber
+pero
+
+sondern
+sino
+
+# G 1.7
+
+gehen
+ir
+
+ir (yo)
+(yo) voy
+
+ir (tú)
+(tú) vas
+
+ir (ella/él)
+(ella/él) va
+
+ir (usted)
+(usted) va
+
+ir (nosotras/nosotros)
+(nosotras/nosotros) vamos
+
+ir (vosotras/vosotros)
+(vosotras/vosotros) vais
+
+ir (ellas/ellos)
+(ellas/ellos) van
+
+ir (ustedes)
+(ustedes) van
+
+sein (permanent)
+ser
+
+ser (yo)
+(yo) soy
+
+ser (tú)
+(tú) eres
+
+ser (ella/él)
+(ella/él) es
+
+ser (usted)
+(usted) es
+
+ser (nosotras/nosotros)
+(nosotras/nosotros) somos
+
+ser (vosotras/vosotros)
+(vosotras/vosotros) sois
+
+ser (ellas/ellos)
+(ellas/ellos) son
+
+ser (ustedes)
+(ustedes) son
+
+sein (temporary)
+estar
+
+estar (yo)
+(yo) estoy
+
+estar (tú)
+(tú) estás
+
+estar (ella/él)
+(ella/él) está
+
+estar (usted)
+(usted) está
+
+estar (nosotras/nosotros)
+(nosotras/nosotros) estamos
+
+estar (vosotras/vosotros)
+(vosotras/vosotros) estáis
+
+estar (ellas/ellos)
+(ellas/ellos) están
+
+estar (ustedes)
+(ustedes) están
+
+kennen/wissen
+saber
+
+saber (yo)
+(yo) sé
+
+saber (tú)
+(tú) sabes
+
+saber (ella/él)
+(ella/él) sabe
+
+saber (usted)
+(usted) sabe
+
+saber (nosotras/nosotros)
+(nosotras/nosotros) sabemos
+
+saber (vosotras/vosotros)
+(vosotras/vosotros) sabéis
+
+saber (ellas/ellos)
+(ellas/ellos) saben
+
+saber (ustedes)
+(ustedes) saben
+
+jdn. kennen
+conocer a alguin
+
+conocer (yo)
+(yo) conozco
+
+conocer (tú)
+(tú) conoces
+
+conocer (ella/él)
+(ella/él) conoce
+
+conocer (usted)
+(usted) conoce
+
+conocer (nosotras/nosotros)
+(nosotras/nosotros) conocemos
+
+conocer (vosotras/vosotros)
+(vosotras/vosotros) conocéis
+
+conocer (ellas/ellos)
+(ellas/ellos) conocemos
+
+conocer (ustedes)
+(ustedes) conocemos
+
+machen
+hacer
+
+hacer (yo)
+(yo) hago
+
+hacer (tú)
+(tú) haces
+
+hacer (ella/él)
+(ella/él) hace
+
+hacer (usted)
+(usted) hace
+
+hacer (nosotras/nosotros)
+(nosotras/nosotros) hacemos
+
+hacer (vosotras/vosotros)
+(vosotras/vosotros) hacéis
+
+hacer (ellas/ellos)
+(ellas/ellos) hacen
+
+hacer (ustedes)
+(ustedes) hacen
+
+haben
+tener
+
+tener (yo)
+(yo) tengo
+
+tener (tú)
+(tú) tienes
+
+tener (ella/él)
+(ella/él) tiene
+
+tener (usted)
+(usted) tiene
+
+tener (nosotras/nosotros)
+(nosotras/nosotros) tenemos
+
+tener (vosotras/vosotros)
+(vosotras/vosotros) tenéis
+
+tener (ellas/ellos)
+(ellas/ellos) tienen
+
+tener (ustedes)
+(ustedes) tienen
+
+ausgehen
+salir
+
+salir (yo)
+(yo) salgo
+
+salir (tú)
+(tú) sales
+
+salir (ella/él)
+(ella/él) sale
+
+salir (usted)
+(usted) sale
+
+salir (nosotras/nosotros)
+(nosotras/nosotros) salimos
+
+salir (vosotras/vosotros)
+(vosotras/vosotros) salís
+
+salir (ellas/ellos)
+(ellas/ellos) salen
+
+salir (ustedes)
+(ustedes) salen
 
 
 # G 1.8
@@ -84,380 +566,6 @@ e, s, e, s
 a, as, -/o, s/es
 
 
-# G 1.4
-
-#infinitiv
-#infinitivo
-#
-#ich 
-#(yo) 
-#
-#du 
-#(tú) 
-#
-#er/sie 
-#(ella/él) 
-#
-#Sie (s. höflich) 
-#(usted) 
-#
-#wir 
-#(nosotras/nosotros) 
-#
-#ihr 
-#(vosotras/vosotros) 
-#
-#sie (3. person plural) 
-#(ellas/ellos) 
-#
-#Sie (pl. höflich) 
-#(ustedes) 
-
-studieren
-estudiar
-
-ich studiere
-(yo) estudio
-
-du studierst
-(tú) estudias
-
-er/sie studiert
-(ella/él) estudia
-
-Sie (s. höflich) studieren
-(usted) estudia
-
-wir studieren
-(nosotras/nosotros) estudiamos
-
-ihr studiert
-(vosotras/vosotros) estudiáis
-
-sie (3. person plural) studieren
-(ellas/ellos) estudian
-
-Sie (pl. höflich) studieren
-(ustedes) estudian
-
-lernen
-aprender
-
-ich lerne
-(yo) aprendo
-
-du lernst
-(tú) aprendes
-
-er/sie lernt
-(ella/él) aprende
-
-Sie (s. höflich) lernen
-(usted) aprende
-
-wir lernen
-(nosotras/nosotros) aprendemos
-
-ihr lernt
-(vosotras/vosotros) aprendéis
-
-sie (3. person plural) lernen
-(ellas/ellos) aprenden
-
-Sie (pl. höflich) lernen
-(ustedes) aprenden
-
-leben
-vivir
-
-ich lebe
-(yo) vivo
-
-du lebst
-(tú) vives
-
-er/sie lebt
-(ella/él) vive
-
-Sie (s. höflich) leben
-(usted) vive
-
-wir leben
-(nosotras/nosotros) vivimos
-
-ihr lebt
-(vosotras/vosotros) vivís
-
-sie (3. person plural)
-(ellas/ellos)
-
-Sie (pl. höflich)
-(ustedes)
-
-sich nennen
-llamarse
-
-ich nenne mich
-(yo) me llamo
-
-du nennst dich
-(tú) te llamas
-
-er/sie nennt sich
-(ella/él) se llama
-
-Sie (s. höflich) nennen sich
-(usted) se llama
-
-wir nennen uns
-(nosotras/nosotros) nos llamamos
-
-ihr nennt euch
-(vosotras/vosotros) os llamáis
-
-sie (3. person plural) nennen sich
-(ellas/ellos) se llaman
-
-Sie (pl. höflich) nennen sich
-(ustedes) se llaman
-
-# G 1.7
-
-gehen
-ir
-
-ich gehe
-(yo) voy
-
-du gehst
-(tú) vas
-
-er/sie geht
-(ella/él) va
-
-Sie (s. höflich) gehen
-(usted) va
-
-wir gehen
-(nosotras/nosotros) vamos
-
-ihr geht
-(vosotras/vosotros) vais
-
-sie (3. person plural) gehen
-(ellas/ellos) van
-
-Sie (pl. höflich) gehen
-(ustedes) van
-
-sein (permanent)
-ser
-
-ich bin (permanent)
-(yo) soy
-
-du bist (permanent)
-(tú) eres
-
-er/sie ist (permanent)
-(ella/él) es
-
-Sie (s. höflich) sind (permanent)
-(usted) es
-
-wir sind (permanent)
-(nosotras/nosotros) somos
-
-ihr seid (permanent)
-(vosotras/vosotros) sois
-
-sie (3. person plural) sind (permanent)
-(ellas/ellos) son
-
-Sie (pl. höflich) sind (permanent)
-(ustedes) son
-
-sein (temporary)
-estar
-
-ich bin (temporary)
-(yo) estoy
-
-du bist (temporary)
-(tú) estás
-
-er/sie ist (temporary)
-(ella/él) está
-
-Sie (s. höflich) sind (temporary)
-(usted) está
-
-wir sind (temporary)
-(nosotras/nosotros) estamos
-
-ihr seid (temporary)
-(vosotras/vosotros) estáis
-
-sie (3. person plural) sind (temporary)
-(ellas/ellos) están
-
-Sie (pl. höflich) sind (temporary)
-(ustedes) están
-
-kennen/wissen
-saber
-
-ich weiss
-(yo) sé
-
-du weisst
-(tú) sabes
-
-er/sie weisst
-(ella/él) sabe
-
-Sie (s. höflich) wissen
-(usted) sabe
-
-wir wissen
-(nosotras/nosotros) sabemos
-
-ihr wisst
-(vosotras/vosotros) sabéis
-
-sie (3. person plural) wissen
-(ellas/ellos) saben
-
-Sie (pl. höflich) wissen
-(ustedes) saben
-
-jdn. kennen
-conocer a alguin
-
-ich kenne
-(yo) conozco
-
-du kennst
-(tú) conoces
-
-er/sie kennt
-(ella/él) conoce
-
-Sie (s. höflich) kennen
-(usted) conoce
-
-wir kennen
-(nosotras/nosotros) conocemos
-
-ihr kennt
-(vosotras/vosotros) conocéis
-
-sie (3. person plural) kennen
-(ellas/ellos) conocemos
-
-Sie (pl. höflich) kennen
-(ustedes) conocemos
-
-machen
-hacer
-
-ich mache
-(yo) hago
-
-du hast
-(tú) haces
-
-er/sie macht
-(ella/él) hace
-
-Sie (s. höflich) machen
-(usted) hace
-
-wir machen
-(nosotras/nosotros) hacemos
-
-ihr macht
-(vosotras/vosotros) hacéis
-
-sie (3. person plural) machen
-(ellas/ellos) hacen
-
-Sie (pl. höflich) machen
-(ustedes) hacen
-
-haben
-tener
-
-ich habe
-(yo) tengo
-
-du hast
-(tú) tienes
-
-er/sie hat
-(ella/él) tiene
-
-Sie (s. höflich) haben
-(usted) tiene
-
-wir haben
-(nosotras/nosotros) tenemos
-
-ihr habt
-(vosotras/vosotros) tenéis
-
-sie (3. person plural) haben
-(ellas/ellos) tienen
-
-Sie (pl. höflich) haben
-(ustedes) tienen
-
-ausgehen
-salir
-
-ich gehe aus
-(yo) salgo
-
-du gehst aus
-(tú) sales
-
-er/sie geht aus
-(ella/él) sale
-
-Sie (s. höflich) gehen aus
-(usted) sale
-
-wir gehen aus
-(nosotras/nosotros) salimos
-
-ihr geht aus
-(vosotras/vosotros) salís
-
-sie (3. person plural) gehen aus
-(ellas/ellos) salen
-
-Sie (pl. höflich) gehen aus
-(ustedes) salen
-
-
-# G 1.6 Bindwörter
-
-und
-y (e vor wörter die mit i- oder hi- beginnen)
-
-oder
-o (u vor wörter die mit o- oder ho- beginnen)
-
-aber
-pero
-
-sondern
-sino
-
-
-# G 1.10
-# already have these, could use some more examples though
-
 
 # G 1.9 muy vs mucho
 
@@ -473,117 +581,10 @@ mit adjektiven (Es un barrio muy interesante)
 Mit welcher Wortart(en) "mucho" benutzt?
 mit verben und substantiven (Trabaja mucho. Mucha gente, muchas personas, mucho tiempo, muchos inmigrantes)
 
-# G 1.3 bestimmte und unbestimmte Artikeln
+# G 1.10
+# already have these, could use some more examples though
 
-# G 1.5 Verben mit Diphthongierung
 
-verstehen
-entender
-
-ich verstehe
-(yo) entiendo
-
-du verstehst
-(tú) entiendes
-
-er/sie versteht
-(ella/él) entiende
-
-Sie (s. höflich) verstehen
-(usted) entiende
-
-wir verstehen
-(nosotras/nosotros) entendemos
-
-ihr versteht
-(vosotras/vosotros) entedéis
-
-sie (3. person plural) verstehen
-(ellas/ellos) entienden
-
-Sie (pl. höflich) verstehen
-(ustedes) entienden
-
-wollen
-querer
-
-ich will
-(yo) quiero
-
-du willst
-(tú) quieres
-
-er/sie will
-(ella/él) quiere
-
-Sie (s. höflich) wollen
-(usted) quiere
-
-wir wollen
-(nosotras/nosotros) queremos
-
-ihr wollt
-(vosotras/vosotros) queréis
-
-sie (3. person plural) wollen
-(ellas/ellos) quieren
-
-Sie (pl. höflich) wollen
-(ustedes) quieren
-
-können
-poder
-
-ich kann
-(yo) puedo
-
-du kannst
-(tú) puedes
-
-er/sie kann
-(ella/él) puede
-
-Sie (s. höflich) können
-(usted) puede
-
-wir können
-(nosotras/nosotros) podemos
-
-ihr könnt
-(vosotras/vosotros) podéis
-
-sie (3. person plural) können
-(ellas/ellos) pueden
-
-Sie (pl. höflich) können
-(ustedes) pueden
-
-zurückkommen
-volver
-
-ich komme zurück
-(yo) vuelvo
-
-du kommst zurück
-(tú) vuelves
-
-er/sie kommt zurück
-(ella/él) vuelve
-
-Sie (s. höflich) kommen zurück
-(usted) vuelve
-
-wir kommen zurück
-(nosotras/nosotros) volvemos
-
-ihr kommt zurück
-(vosotras/vosotros) volvéis
-
-sie (3. person plural) kommen zurück
-(ellas/ellos) vuelven
-
-Sie (pl. höflich) kommen zurück
-(ustedes) vuelven
 
 #G 2.3 Dativpronomen 
 
@@ -623,7 +624,7 @@ encantar
 scheinen
 parecer
 
-I like living in a small city
+I like living in a small city.
 Me gusta vivir en una ciudad pequeña. (gustar conjugated to singular for verbs)
 
 I'm interested in the cultural offerings of the large cities.
@@ -647,9 +648,6 @@ Hacemos una excursión si te gusta.
 
 Her parents work in Barcelona because they're English professors. 
 Sus padres trabajan en Barcelona, porque son profesores de inglés.
-
-She doesn't know Spanish and also not Catalan.
-No sabe español y tampoco catalán.
 
 In addition
 Además
@@ -681,7 +679,7 @@ She wants to improve / get better at ...
 Ella quiere mejorar ...
 
 She would like to go ...
-Ella le gustaría ir ... (conjugado en condicional)
+Ella le gustaría ir ... (conjugado en condicional) (dative pronoun)
 
 She is going to study.
 Ella va a estudiar.
@@ -694,7 +692,7 @@ Voy a hacer deporte y a trabajar.
 Which languages are spoken in Spain?
 Qué lenguas se hablan en España?
 
-In Austria, only one language is spoken.
+In Austria, only German is spoken.
 En Austria sólo se habla alemán.
 
 # G 3.1 Demonstrativbegleiter
@@ -831,6 +829,5 @@ el armario
 
 box
 el recuadro
-
 
 
